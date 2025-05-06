@@ -1,0 +1,16 @@
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\bin\Debug\netcoreapp3.1\ReceiptParser.exe
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\bin\Debug\netcoreapp3.1\ReceiptParser.deps.json
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\bin\Debug\netcoreapp3.1\ReceiptParser.runtimeconfig.json
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\bin\Debug\netcoreapp3.1\ReceiptParser.runtimeconfig.dev.json
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\bin\Debug\netcoreapp3.1\ReceiptParser.dll
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\bin\Debug\netcoreapp3.1\ReceiptParser.pdb
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\obj\Debug\netcoreapp3.1\ReceiptParser.csprojAssemblyReference.cache
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\obj\Debug\netcoreapp3.1\ReceiptParser.AssemblyInfoInputs.cache
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\obj\Debug\netcoreapp3.1\ReceiptParser.AssemblyInfo.cs
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\obj\Debug\netcoreapp3.1\ReceiptParser.csproj.CoreCompileInputs.cache
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\obj\Debug\netcoreapp3.1\ReceiptParser.csproj.CopyComplete
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\obj\Debug\netcoreapp3.1\ReceiptParser.dll
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\obj\Debug\netcoreapp3.1\ReceiptParser.pdb
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\obj\Debug\netcoreapp3.1\ReceiptParser.genruntimeconfig.cache
+C:\Users\Tuğçe\source\repos\ReceiptParser\ReceiptParser\bin\Debug\netcoreapp3.1\response.json
